@@ -6,6 +6,6 @@
 
 1. **Optional:** Style to your pleasing.
 
-> Hint: Refer to the representation below, for an idea of what your result should look like.
+> Hint: Refer to the representation below and watch the mouse behaviour, for an idea of what your result should look like.
 
 ![demo](demo.gif)
